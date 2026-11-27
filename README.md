@@ -2,7 +2,7 @@
 
 A cooperative puzzle prototype set in two eras of the same lighthouse.
 
-**[Download the macOS game](https://github.com/longyiran/False-Dawn-Playable/releases/download/v2026.11.27.1/False-Dawn-macOS-2026.11.27.1.zip)** · **[Illustrated play guide](https://github.com/longyiran/False-Dawn-Playable/releases/download/v2026.11.27.1/False-Dawn-Play-Guide.pdf)** · **[Release page](https://github.com/longyiran/False-Dawn-Playable/releases/tag/v2026.11.27.1)**
+**[Download the macOS game](https://github.com/longyiran/False-Dawn-Playable/releases/download/v2026.11.27.1/False-Dawn-macOS-2026.11.27.1.zip)** · **[One-page play guide](https://github.com/longyiran/False-Dawn-Playable/releases/download/v2026.11.27.1/False-Dawn-Play-Guide.pdf)** · **[Release page](https://github.com/longyiran/False-Dawn-Playable/releases/tag/v2026.11.27.1)**
 
 ## Start playing
 
@@ -45,7 +45,7 @@ Chapter checkpoints supply prerequisite discoveries. P3 retry restores an in-ses
 
 **2026.11.27.1** fills two missing door leaves in the opposite-era architectural frames. It retains the mirror supports, doors, key cabinet and scene-prop improvements from November 27. Existing puzzle exit conditions, routes and controls are unchanged. This is a non-Development macOS build.
 
-The release includes the game ZIP, English play guide, README, asset credits and SHA-256 checksums. Download the **macOS game ZIP**, not GitHub's automatically generated source archives.
+The release includes the game ZIP, one-page English play guide, README, asset credits and SHA-256 checksums. The guide now uses a white background and the original False Dawn title; the standalone PDF and the copy inside the game ZIP match. The game application is unchanged. Download the **macOS game ZIP**, not GitHub's automatically generated source archives.
 
 [Asset credits](https://github.com/longyiran/False-Dawn-Playable/releases/download/v2026.11.27.1/CREDITS.txt) · [Full setup instructions](https://github.com/longyiran/False-Dawn-Playable/releases/download/v2026.11.27.1/README-FIRST.txt)
 
