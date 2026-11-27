@@ -2,11 +2,11 @@
 
 A cooperative puzzle prototype set in two eras of the same lighthouse.
 
-**[Download the macOS game](https://github.com/longyiran/False-Dawn-Playable/releases/download/v2026.11.27/False-Dawn-macOS-2026.11.27.zip)** · **[Illustrated play guide](https://github.com/longyiran/False-Dawn-Playable/releases/download/v2026.11.27/False-Dawn-Play-Guide.pdf)** · **[Release page](https://github.com/longyiran/False-Dawn-Playable/releases/tag/v2026.11.27)**
+**[Download the macOS game](https://github.com/longyiran/False-Dawn-Playable/releases/download/v2026.11.27.1/False-Dawn-macOS-2026.11.27.1.zip)** · **[Illustrated play guide](https://github.com/longyiran/False-Dawn-Playable/releases/download/v2026.11.27.1/False-Dawn-Play-Guide.pdf)** · **[Release page](https://github.com/longyiran/False-Dawn-Playable/releases/tag/v2026.11.27.1)**
 
 ## Start playing
 
-1. Download **False-Dawn-macOS-2026.11.27.zip** from the release.
+1. Download **False-Dawn-macOS-2026.11.27.1.zip** from the release.
 2. Extract the entire ZIP and open **False Dawn.app**. Unity is not required.
 3. Choose **Opening & tutorial** for the introduction, or **Puzzle 2 / Puzzle 3** for a focused mechanics review.
 4. Read **README-FIRST.txt** inside the download for setup, full controls and troubleshooting.
@@ -43,10 +43,10 @@ Chapter checkpoints supply prerequisite discoveries. P3 retry restores an in-ses
 
 ## Version and files
 
-**2026.11.27** includes the updated mirror supports, doors, key cabinet and scene props. This is a non-Development macOS build.
+**2026.11.27.1** fills two missing door leaves in the opposite-era architectural frames. It retains the mirror supports, doors, key cabinet and scene-prop improvements from November 27. Existing puzzle exit conditions, routes and controls are unchanged. This is a non-Development macOS build.
 
-The release provides the game ZIP, English play guide, README, asset credits and SHA-256 checksum. Download the **macOS game ZIP**, not GitHub's automatically generated Source code archives.
+The release includes the game ZIP, English play guide, README, asset credits and SHA-256 checksums. Download the **macOS game ZIP**, not GitHub's automatically generated source archives.
 
-[Asset credits](https://github.com/longyiran/False-Dawn-Playable/releases/download/v2026.11.27/CREDITS.txt) · [Full setup instructions](https://github.com/longyiran/False-Dawn-Playable/releases/download/v2026.11.27/README-FIRST.txt)
+[Asset credits](https://github.com/longyiran/False-Dawn-Playable/releases/download/v2026.11.27.1/CREDITS.txt) · [Full setup instructions](https://github.com/longyiran/False-Dawn-Playable/releases/download/v2026.11.27.1/README-FIRST.txt)
 
 This repository distributes a portfolio prototype. The source project and internal design workspace are kept separately.
